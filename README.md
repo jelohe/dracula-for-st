@@ -12,7 +12,7 @@
 
 1. Downlad st source from [the official repository](http://dl.suckless.org/st/).
 2. Unzip and navigate to the st directory.
-3. `git apply /path/to/this/repo/st-dracula-20170803-7f99032.diff`.
+3. `git apply /path/to/the/patch/st-dracula-20170803-7f99032.diff`.
 4. Compile st as usual.
 
 ## Caveats
