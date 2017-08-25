@@ -6,7 +6,7 @@
 
 ## Install
 
-1. Download the *st-dracula-20170803-7f99032.diff* and save it anywhere on your computer.
+1. Download the **st-dracula-20170803-7f99032.diff** and save it anywhere on your computer.
 
 ## Activating theme
 
@@ -23,7 +23,7 @@ Notice that the only way for chaning the colorscheme on st is to recompile it.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Jesús López](https://avatars0.githubusercontent.com/u/18138817?v=4&s=460)](https://github.com/jelohe) 
+[![Jesús López](https://avatars0.githubusercontent.com/u/18138817?v=4&s=70)](https://github.com/jelohe) 
 
 ## License
 
