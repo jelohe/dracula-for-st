@@ -2,7 +2,7 @@
 
 > A dark theme for the simple terminal program [st](http://st.suckless.org/).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](screenshot.png)
 
 ## Install
 
