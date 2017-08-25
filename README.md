@@ -6,7 +6,7 @@
 
 ## Install
 
-1. Download the **st-dracula-20170803-7f99032.diff** and save it anywhere on your computer.
+1. Download **st-dracula-20170803-7f99032.diff** and save it anywhere on your computer.
 
 ## Activating theme
 
