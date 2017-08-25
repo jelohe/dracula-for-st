@@ -1,12 +1,23 @@
 # Dracula for [st](http://st.suckless.org/)
 
-> A dark theme for the terminal [st](http://st.suckless.org/).
+> A dark theme for the simple terminal program [st](http://st.suckless.org/).
 
 ![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/st](https://draculatheme.com/st).
+1. Download the *st-dracula-20170803-7f99032.diff* and save it anywhere on your computer.
+
+## Activating theme
+
+1. Downlad st source from [the official repository](http://dl.suckless.org/st/).
+2. Unzip and navigate to the st directory.
+3. `git apply /path/to/this/repo/st-dracula-20170803-7f99032.diff`.
+4. Compile st as usual.
+
+## Caveats
+
+Notice that the only way for chaning the colorscheme on st is to recompile it.
 
 ## Team
 
